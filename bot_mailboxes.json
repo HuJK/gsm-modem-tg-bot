@@ -1,0 +1,12 @@
+{
+  "phoneDict": {
+    "": "trash"
+  },
+  "kwordDict": {
+    "code": "code",
+    "碼": "code",
+    "码": "code"
+  },
+  "defaultMailbox": "trash",
+  "mainMailbox": "main"
+}
